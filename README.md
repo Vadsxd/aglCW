@@ -1,1 +1,1 @@
-# aglCW
+# Course work of Algorithms and Data Structures
